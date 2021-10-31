@@ -7,11 +7,10 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: |
+      # PizzeriaUnicord, el mejor lugar para mamarte una pizza 
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      No olvides pedir una coca
     actions:
       - title: See all items
         url: /store
