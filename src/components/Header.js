@@ -82,7 +82,7 @@ export default class Header extends React.Component {
                                                     {_.get(item, 'title', null)}
                                                 </Link>
                                             </li>
-                                        </React.Fragment>)
+                                        </React.Fragment>
                                     })}
                                 </ul>
                             </div>
