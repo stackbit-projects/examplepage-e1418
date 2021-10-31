@@ -8,9 +8,9 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 65
     content: |
-      # PizzeriaUnicord, el mejor lugar para mamarte una pizza 
+      # PizzeriaUnicord, el mejor lugar para mamarte una pizza
 
-      No olvides pedir una coca
+      No olvides pedir una coca, no fabian, no
     actions:
       - title: See all items
         url: /store
